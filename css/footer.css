@@ -1,0 +1,64 @@
+
+
+.row-footer{
+    margin-top: 10px;
+    display: flex;
+}
+
+.row-footer img{
+    width: 36px;
+    height: 36px;
+}
+
+.row-footer label{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #C7C7C7;
+}
+
+
+.socials-logo:hover {
+    
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(120%); 
+  }
+
+  .footer-col-items{
+    text-align: center;
+  }
+
+
+
+
+  .Linklist-item-title{
+    color: black;
+    text-align: center;
+    font-family: "Montserrat";
+    
+
+  }
+
+  .Linklist-item-title, a.Linklist-item{
+    color: black;
+    text-align: left;
+    font-family: "Montserrat";
+
+  }
+  
+  .Linklist-item-title:hover {
+    text-decoration: none;
+    color: rgb(175, 170, 170);
+    
+  }
+  a.Linklist-item:hover {
+    color: rgb(175, 170, 170);
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
